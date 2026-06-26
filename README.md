@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kebbien
-- 👀 I’m interested in coding , and graphics design
-- 🌱 I’m currently learning developer online
+- 👀 I’m interested in coding , and graphics design, AI
+- 🌱 I’m currently an electronic technician
 - 💞️ I’m looking to collaborate on any other projects that can help me
 - 📫 How to reach me kebbien96@outlook.com
 
